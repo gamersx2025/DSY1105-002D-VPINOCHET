@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "HolaMundo"
 include(":app")
+include(":lib")
