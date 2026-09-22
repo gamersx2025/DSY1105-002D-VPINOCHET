@@ -5,12 +5,12 @@
 Bienvenido a tu repositorio oficial de Desarrollo de Aplicaciones Móviles (DSY1105). Aquí vas a sufrir, aprender Kotlin, pelearte con Android Studio y finalmente decir "¡Compiló, w*n!".
 
 Este README es tu manual de supervivencia.
-📚 ¿Qué cresta es este repo?
+📚 ¿Qué es este repo?
 
 Este repo es tu bitácora, entrega y portafolio. Aquí vive todo tu código Kotlin de la asignatura.
 Formato obligatorio del nombre:
 
-DSY1105-002-VPinochet  ->  SIGLA-SECCIÓN-INICIAL+NOMBRE+APELLIDO
+DSY1105-002-VPinochet  ->  SIGLA-SECCIÓN-INICIALNOMBRE+APELLIDO
 Ejemplo: Si te llamas Victor Pinochet, es VPinochet. NO pongas INICIALNOMBREAPELLIDO literal o te funan en GitHub.
 
 🛠️ Stack que usaremos (las 3 bestias)
@@ -174,10 +174,10 @@ git pull origin main -> actualizar antes de empezar
     Android Developers en Español
     Canal de YouTube: MoureDev - Kotlin desde cero
 
-Hecho con 💻, ☕ y pánico por un alumno de Duoc para alumnos de Duoc.
+Hecho con 💻, ☕ y pánico por el profesor de Duoc para alumnos de Duoc.
 
     Si este README te sirvió, deja una ⭐ en tu propio repo. Si no, igual déjala, pa' que se vea bonito.
 
 ¿Dudas? Abre un Issue en GitHub, no me hables a las 2 AM por WhatsApp.
 
-// TODO: Aprobar DSY1105 sin volverse loco
+// TODO: Aprobar DSY1105-002D sin volverse loco
